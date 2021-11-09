@@ -41,7 +41,7 @@ while True:
                     print("Items: {} Quantity: {} Price: ₹{}".format(items, quantity, prices))
                 total_amount = sum(my_total)
                 print("Grand Total= ₹{}".format(total_amount))
-                print("Thank you for shopping with Mystore.")
+                print("Thank you for shopping with Mystore, Happy Shopping.")
                 break
         else:
             print("This Item is not there in Mystore.")
