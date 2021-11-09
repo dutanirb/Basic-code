@@ -1,3 +1,6 @@
+#@author name: Anirban
+#@commited for dummy project only 
+
 nested_dict = {'Soap': {'Lux': 40, 'Dove': 50, 'Lifbouy': 45, 'Dettol': 30},
                'Oil': {'Nihar': 60, 'Jasmine': 40, 'Parachute': 70, 'Bajaj': 50},
                'Shampoo': {'Sunslik': 180, 'Clinic plus': 120, 'Pantene': 150, 'Dove': 250}}
