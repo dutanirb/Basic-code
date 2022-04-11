@@ -1,2 +1,2 @@
-# Small Coder for Begginers
+# Small Code for Begginers
 #Written for purpose of getting basic knowlege of Git
